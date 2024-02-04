@@ -15,9 +15,9 @@ Smart Contract Display Network: zkAstar <br>
 Interoperability Protocol: LayerZero <br>
 </p>
 
-#### Documentation
+## Documentation
 
-## Usage
+#### Usage
 
 Generate a new project by running:
 
@@ -30,6 +30,9 @@ cd ./swapay
 ```sh
 npm install
 ```
+```sh
+npm run start
+```
 
 #### Pitch deck and Diagrams
 
@@ -37,6 +40,14 @@ npm install
 - https://docs.google.com/presentation/d/1x2xsvrMhHVAH3SK-X4Ys92PqxvMoEaeQ71op4vc61zY/edit?pli=1#slide=id.p
 
 #### Links
-- 
--
+```sh
+ahdahofojhfjahdfjsh jhfaadhfjahdfjhdsajfhajhfdjdsafhjadhf
+  ```
+link
+- zkatana: hahdhfadjhfjdsahfh
+ ```sh
+ahdhafdhjfhajdhfjhajfdhajhdfjhdj
+```
+link
+- zkatana: hahdjhfajhdfjahdjfhjshdf
 
