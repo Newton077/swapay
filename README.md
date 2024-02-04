@@ -43,12 +43,12 @@ npm run start
 
 link
 ```sh
-ahdahofojhfjahdfjsh jhfaadhfjahdfjhdsajfhajhfdjdsafhjadhf
+contract
   ```
-- zkatana: hahdhfadjhfjdsahfh
+- zkatana: //link
  ```sh
-ahdhafdhjfhajdhfjhajfdhajhdfjhdj
+contract
 ```
 link
-- zkatana: hahdjhfajhdfjahdjfhjshdf
+- zkatana: //link
 
