@@ -36,19 +36,18 @@ npm run start
 
 #### Pitch deck and Diagrams
 
+
 - https://docs.google.com/presentation/d/1x2xsvrMhHVAH3SK-X4Ys92PqxvMoEaeQ71op4vc61zY/edit?pli=1#slide=id.p
 
  <img src="https://github.com/Newton077/swapay/blob/master/imgReadme/diagram.png">
 #### Links Contracts
 
-link
+- zkatana: //link
 ```sh
-contract
+
   ```
 - zkatana: //link
  ```sh
-contract
 ```
-link
-- zkatana: //link
+
 
