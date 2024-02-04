@@ -42,13 +42,12 @@ npm run start
 
 #### Links Contracts
 
-link / contract 
+- zkatana: //link
 ```sh
 
   ```
-link / contract
 - zkatana: //link
  ```sh
 ```
-- zkatana: //link
+
 
