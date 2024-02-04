@@ -17,7 +17,19 @@ Interoperability Protocol: LayerZero <br>
 
 #### Documentation
 
--
+## Usage
+
+Generate a new project by running:
+
+```sh
+git clone  https://github.com/Newton077/swapay.git
+```
+```sh
+cd ./swapay
+```
+```sh
+npm install
+```
 
 #### Pitch deck and Diagrams
 
