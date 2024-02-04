@@ -42,12 +42,10 @@ npm run start
  <img src="https://github.com/Newton077/swapay/blob/master/imgReadme/diagram.png">
 #### Links Contracts
 
-- zkatana: //link
+- zkatana: https://zkatana.explorer.startale.com/address/0x543cff6A7675fee8DCadDdF1386d02079197AD8A
 ```sh
-
+0x543cff6A7675fee8DCadDdF1386d02079197AD8A
   ```
-- zkatana: //link
- ```sh
-```
+
 
 
