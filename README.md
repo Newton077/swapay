@@ -40,6 +40,7 @@ npm run start
 - https://docs.google.com/presentation/d/1x2xsvrMhHVAH3SK-X4Ys92PqxvMoEaeQ71op4vc61zY/edit?pli=1#slide=id.p
 
  <img src="https://github.com/Newton077/swapay/blob/master/imgReadme/diagram.png">
+ <img src="https://github.com/Newton077/swapay/blob/master/imgReadme/diagramo.png">
 #### Links Contracts
 
 - zkatana: https://zkatana.explorer.startale.com/address/0x543cff6A7675fee8DCadDdF1386d02079197AD8A
