@@ -5,28 +5,26 @@ The README for SwaPay includes the following sections: operation of the project,
 SwaPay is a payment gateway that will make payment in different currencies a very user friendly experience. Its purpose is to be able to make swaps between chains. To be able to accomplish this a intuitive interface was designed; made in Astar Network, using their testnet zkAstar, Solidity for the smart contract, and HTML5, CSS and React.js framework for the front-end. SwaPay will appear as an option for payment method while making a crypto transaction. It’ll be a pop-up window that will allow the user (buyer) to change the currency they are supposed to be paying to a currency of their choice. After choosing the currency which they payment will be made with, a “connect wallet” option will be available regarding the wallets that support said currency. This will be done with Astar’s Network collaboration with LayerZero to be able to swap them between chains, since they are firm believers of the future of multichain operability.
 
 ### Technologies 
-
-Programming Languages: 
-Frontend: React.js framework, HTML5, CSS
-Backend and Smart Contract: Solidity
-Libraries: 
-OpenZeppelin: Testing: Hardhat
-Smart Contract Display Network: zkAstar 
-Interoperability Protocol: LayerZero
+<p>
+Programming Languages: <br>
+Frontend: React.js framework, HTML5, CSS <br>
+Backend and Smart Contract: Solidity  <br>
+Libraries: <br>
+OpenZeppelin: Testing: Hardhat <br>
+Smart Contract Display Network: zkAstar <br>
+Interoperability Protocol: LayerZero <br>
+</p>
 
 #### Documentation
 
 -
 
-#### Pitch deck
+#### Pitch deck and Diagrams
 
-- https://github.com/Kanoopz/chainAbstractionSuperhackProject/assets/43384993/58665289-7e2e-4ecd-ae24-74f4432c24fb
 
-#### Diagrams
-3 +/-
-
+- https://docs.google.com/presentation/d/1x2xsvrMhHVAH3SK-X4Ys92PqxvMoEaeQ71op4vc61zY/edit?pli=1#slide=id.p
 
 #### Links
 - 
 -
-#### Contracts 
+
